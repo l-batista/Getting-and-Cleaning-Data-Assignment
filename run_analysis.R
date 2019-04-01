@@ -1,4 +1,4 @@
-
+#Initially Downloaded All Files into One Folder of Current Working Directory
 
 #training data
 training_set <- read.table("./X_train.txt")
