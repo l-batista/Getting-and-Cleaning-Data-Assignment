@@ -1,5 +1,5 @@
 
-The set of variables that were estimated from these signals are:   
+Variables:   
 
 mean(): Mean value  
 std(): Standard deviation  
@@ -18,3 +18,11 @@ skewness(): skewness of the frequency domain signal
 kurtosis(): kurtosis of the frequency domain signal 
 bandsEnergy(): Energy of a frequency interval within the 64 bins of the FFT of each window.
 angle(): Angle between to vectors.
+
+Activity Labels:  
+1 - Walking  
+2 - Walking Upstairs  
+3 - Walking Downstairs  
+4 - Sitting  
+5 - Standing  
+6 - Laying  
